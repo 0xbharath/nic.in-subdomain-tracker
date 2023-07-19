@@ -13,7 +13,7 @@ Nothing fancy. Once a day, a Python script runs on my machine that -
 
 ## Future plans
 
-1. Diff files of today/previous day and get a list of newly added subdomains for the day
+1. Diff files of today/previous day to get a list of newly added subdomains for the day
 2. Create a Twitter bot to notify when there is a new subdomain
 
 ## Frequently Asked Questions (FAQs)

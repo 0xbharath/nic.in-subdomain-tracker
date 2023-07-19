@@ -1,6 +1,6 @@
 # `nic.in` subdomain tracker
 
-The repository contains list of subdomains/web applications maintained by National Informatics Centre (NIC) under Govt. of India. 
+The repository contains list of subdomains/web applications maintained by National Informatics Centre (NIC) under Govt. of India. As this tool uses a DNS protocol level technique to enumerate the subdomains, the coverage is 100% i.e.the file contains all the valid and active subdomains under `nic.in` for a given date.
 
 `all_subdomains_{time_stamp}.txt` contains list of subdomains under `nic.in` domain for a given day.
 

@@ -1,12 +1,3 @@
-Deleted lines:
-
-vdiwebmail.nic.in.
-
-Added lines:
-
-demoai.nic.in.
-eepmoefcc.nic.in.
-gepnic-audit.nic.in.
 Deleted subdomains:
 
 vdiwebmail.nic.in.

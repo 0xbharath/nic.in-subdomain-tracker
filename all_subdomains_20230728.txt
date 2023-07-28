@@ -1043,6 +1043,7 @@ demo7-coal.nic.in.
 demo7-deity.nic.in.
 demo7-mhrd.nic.in.
 demoaera.nic.in.
+demoai.nic.in.
 demoanalytics.nic.in.
 demobharat.nic.in.
 demobusiness.nic.in.

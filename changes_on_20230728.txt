@@ -7,3 +7,12 @@ Added lines:
 demoai.nic.in.
 eepmoefcc.nic.in.
 gepnic-audit.nic.in.
+Deleted subdomains:
+
+vdiwebmail.nic.in.
+
+Added subdomains:
+
+demoai.nic.in.
+eepmoefcc.nic.in.
+gepnic-audit.nic.in.

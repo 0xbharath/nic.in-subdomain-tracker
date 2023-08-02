@@ -1,0 +1,11 @@
+Deleted subdomains:
+
+
+Added subdomains:
+
+iphs.nic.in.
+passappweb.nic.in.
+seedtrace.nic.in.
+vastu247.nic.in.
+vastu248.nic.in.
+vastu249.nic.in.

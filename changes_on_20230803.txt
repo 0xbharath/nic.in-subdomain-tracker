@@ -1,0 +1,8 @@
+Deleted subdomains:
+
+demoai.nic.in.
+
+Added subdomains:
+
+origin28072023-dpl-rashtrapatibhavan.nic.in.
+siemwebmail.nic.in.

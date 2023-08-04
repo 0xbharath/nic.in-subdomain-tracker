@@ -1,0 +1,7 @@
+Deleted subdomains:
+
+
+Added subdomains:
+
+netsensorwebmail.nic.in.
+origin03082023-crcs.nic.in.

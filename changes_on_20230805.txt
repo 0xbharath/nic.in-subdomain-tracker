@@ -1,0 +1,7 @@
+Deleted subdomains:
+
+
+Added subdomains:
+
+formaticsweb.nic.in.
+origin03082023-old-eci.nic.in.

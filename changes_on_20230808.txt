@@ -1,0 +1,9 @@
+Deleted subdomains:
+
+
+Added subdomains:
+
+dhcbkp.nic.in.
+feasthp.nic.in.
+origin04082023-niti.nic.in.
+rcmshp.nic.in.

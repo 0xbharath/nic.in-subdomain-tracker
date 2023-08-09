@@ -1,0 +1,6 @@
+Deleted subdomains:
+
+highereducationdiv.nic.in.
+
+Added subdomains:
+

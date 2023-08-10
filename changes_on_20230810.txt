@@ -1,0 +1,7 @@
+Deleted subdomains:
+
+
+Added subdomains:
+
+otprelay.nic.in.
+scdpm.nic.in.

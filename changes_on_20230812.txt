@@ -1,0 +1,12 @@
+Deleted subdomains:
+
+formaticsweb.nic.in.
+netsensorwebmail.nic.in.
+passappweb.nic.in.
+siemwebmail.nic.in.
+
+Added subdomains:
+
+mwrd.nic.in.
+origin-11082023-igotkarmayogi.nic.in.
+origin-11082023-karmayogi.nic.in.

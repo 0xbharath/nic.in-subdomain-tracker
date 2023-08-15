@@ -1,0 +1,7 @@
+Deleted subdomains:
+
+
+Added subdomains:
+
+oc.nic.in.
+traias.nic.in.

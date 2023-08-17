@@ -1,0 +1,9 @@
+Deleted subdomains:
+
+
+Added subdomains:
+
+vastu250.nic.in.
+vastu251.nic.in.
+vastu252.nic.in.
+vastu253.nic.in.

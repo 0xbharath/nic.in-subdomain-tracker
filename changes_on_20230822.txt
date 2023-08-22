@@ -1,0 +1,9 @@
+Deleted subdomains:
+
+nehrumemorial.nic.in.
+oc.nic.in.
+traias.nic.in.
+
+Added subdomains:
+
+pmml.nic.in.

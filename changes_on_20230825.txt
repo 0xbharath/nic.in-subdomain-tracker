@@ -1,0 +1,7 @@
+Deleted subdomains:
+
+
+Added subdomains:
+
+mahaehrms.nic.in.
+sevak.nic.in.

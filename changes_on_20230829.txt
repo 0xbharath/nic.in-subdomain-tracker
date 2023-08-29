@@ -1,0 +1,7 @@
+Deleted subdomains:
+
+epm-ivfrt.nic.in.
+
+Added subdomains:
+
+skm.nic.in.

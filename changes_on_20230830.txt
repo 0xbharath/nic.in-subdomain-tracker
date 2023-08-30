@@ -1,0 +1,8 @@
+Deleted subdomains:
+
+thambalmarikcollege.nic.in.
+
+Added subdomains:
+
+demoemms.nic.in.
+ifmswbuat.nic.in.

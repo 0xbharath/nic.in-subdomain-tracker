@@ -1,0 +1,7 @@
+Deleted subdomains:
+
+delhimaps.nic.in.
+
+Added subdomains:
+
+matribhoomigis.nic.in.

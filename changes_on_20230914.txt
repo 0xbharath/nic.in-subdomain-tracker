@@ -1,0 +1,7 @@
+Deleted subdomains:
+
+mtc.nic.in.
+
+Added subdomains:
+
+ardemo.nic.in.

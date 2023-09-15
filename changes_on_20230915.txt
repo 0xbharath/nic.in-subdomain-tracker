@@ -1,0 +1,7 @@
+Deleted subdomains:
+
+drugmon.nic.in.
+
+Added subdomains:
+
+daweb.nic.in.

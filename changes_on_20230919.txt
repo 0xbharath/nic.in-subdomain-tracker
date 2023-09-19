@@ -1,0 +1,11 @@
+Deleted subdomains:
+
+
+Added subdomains:
+
+esahydvagw31.nic.in.
+esahydvagw32.nic.in.
+esahydvagw33.nic.in.
+esahydvagw34.nic.in.
+esahydvagw35.nic.in.
+esahydvagw36.nic.in.
